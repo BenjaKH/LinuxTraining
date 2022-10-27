@@ -1,4 +1,5 @@
 This is a fork of https://gitlab.com/thomasbb-group/lfcs-training
+
 The script creates files to be used for the exercises at the end in comments (thanks to u/7lawa for his feedback):
 
 The Vagrantfile, is set to use KVM as defualt, commant out that line if you want to use virtual box
